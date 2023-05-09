@@ -11,7 +11,7 @@ while validador:
     else:
         validador = False
 
-print(arreglo)
+
 
 for x in range(len(arreglo)):
     for i in range(0,len(arreglo)-x-1):
